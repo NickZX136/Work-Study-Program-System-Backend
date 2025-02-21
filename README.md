@@ -1,2 +1,2 @@
-# Work-Study-Program-System
-大二下Javaweb大作业勤工助学系统
+# Work-Study-Program-System-Backend
+大二下Javaweb大作业勤工助学系统(后端)
